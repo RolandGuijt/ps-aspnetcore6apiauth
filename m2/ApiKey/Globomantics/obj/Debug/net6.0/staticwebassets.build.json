@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "gMhkKEQcNULjfyugkp/FqlQ26FdVu5fTP6byunYqanE=",
+  "Source": "Globomantics",
+  "BasePath": "_content/Globomantics",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Globomantics\\wwwroot",
+      "Source": "Globomantics",
+      "ContentRoot": "C:\\Users\\rolan\\source\\repos\\RolandGuijt\\ps-aspnetcore6apiauth\\m2\\ApiKey\\Globomantics\\wwwroot\\",
+      "BasePath": "_content/Globomantics",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\rolan\\source\\repos\\RolandGuijt\\ps-aspnetcore6apiauth\\m2\\ApiKey\\Globomantics\\wwwroot\\img\\globomantics-logo-darkblue.png",
+      "SourceId": "Globomantics",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rolan\\source\\repos\\RolandGuijt\\ps-aspnetcore6apiauth\\m2\\ApiKey\\Globomantics\\wwwroot\\",
+      "BasePath": "_content/Globomantics",
+      "RelativePath": "img/globomantics-logo-darkblue.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\globomantics-logo-darkblue.png"
+    }
+  ]
+}

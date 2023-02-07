@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Globomantics/1.0.0": {
+        "dependencies": {
+          "Globomantics.Shared": "1.0.0",
+          "Microsoft.AspNetCore.Authentication.Google": "6.0.11"
+        },
+        "runtime": {
+          "Globomantics.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.Google/6.0.11": {
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Authentication.Google.dll": {
+            "assemblyVersion": "6.0.11.0",
+            "fileVersion": "6.0.1122.52304"
+          }
+        }
+      },
+      "Globomantics.Shared/1.0.0": {
+        "runtime": {
+          "Globomantics.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Globomantics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Authentication.Google/6.0.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EjZhKpe5WVy6p23pRYLhO62t4rQW7bZO72J0eU01TmbOYRsJ/ZAUZqYQ4C3Kd3+CH18Ac4KkSl3X8YhuXHAatA==",
+      "path": "microsoft.aspnetcore.authentication.google/6.0.11",
+      "hashPath": "microsoft.aspnetcore.authentication.google.6.0.11.nupkg.sha512"
+    },
+    "Globomantics.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

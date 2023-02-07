@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+9loZ65AbuuVX0dDYGC9lWmw+TkrYLcewoR4jbLNY/SABk7nEM11PHAEFymrozYAI33oUyU79mpLb7Zp6JmrQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rolan\\source\\repos\\RolandGuijt\\ps-aspnetcore6apiauth\\m2\\Start\\Globomantics\\Globomantics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rolan\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\6.0.11\\microsoft.aspnetcore.authentication.google.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

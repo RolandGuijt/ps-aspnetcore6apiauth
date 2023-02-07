@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6DjLXmfVHd6UKxQS+S+ohGggwtIIp36YnADzpr6zAXc=",
+  "Source": "Globomantics.Api",
+  "BasePath": "_content/Globomantics.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
