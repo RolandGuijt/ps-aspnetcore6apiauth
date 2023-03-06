@@ -1,0 +1,32 @@
+@using Globomantics.Client.ApiServices;
+@using Globomantics.Client.Models;
+@inject IProposalApiService apiService
+
+<tr>
+    <td>@Proposal.Title</td>
+    <td>@Proposal.Speaker</td>
+    <td>
+        @if (Proposal.Approved)
+        {
+            <div>Yes</div>
+        }
+    </td>
+    <td>
+        @if (!Proposal.Approved)
+        {
+            <a @onclick="@HandleApprove">Approve</a>
+        }
+    </td>
+</tr>
+
+
+@code {
+    [Parameter]
+    public ProposalModel Proposal { get; set; }
+
+    private async Task HandleApprove()
+    {
+        Proposal.Approved = true;
+        await apiService.Approve(Proposal.Id);
+    }
+}

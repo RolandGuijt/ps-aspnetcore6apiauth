@@ -10,7 +10,8 @@
         }
         public async Task InvokeAsync(HttpContext context, IConfiguration config)
         {
-            var apiKeyPresentInHeader = context.Request.Headers.TryGetValue(_ApiKeyName, out var extractedApiKey);
+            var apiKeyPresentInHeader = context.Request.Headers
+                .TryGetValue(_ApiKeyName, out var extractedApiKey);
             var apiKey = config[_ApiKeyName];
 
             if ((apiKeyPresentInHeader && apiKey == extractedApiKey)

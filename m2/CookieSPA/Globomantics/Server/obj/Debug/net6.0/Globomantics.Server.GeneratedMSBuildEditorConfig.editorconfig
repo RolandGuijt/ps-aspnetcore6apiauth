@@ -1,0 +1,37 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Globomantics.Server
+build_property.RootNamespace = Globomantics.Server
+build_property.ProjectDir = C:\Users\rolan\source\repos\RolandGuijt\ps-aspnetcore6apiauth\m2\CookieSPA\Globomantics\Server\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\rolan\source\repos\RolandGuijt\ps-aspnetcore6apiauth\m2\CookieSPA\Globomantics\Server
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/rolan/source/repos/RolandGuijt/ps-aspnetcore6apiauth/m2/CookieSPA/Globomantics/Server/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/source/repos/RolandGuijt/ps-aspnetcore6apiauth/m2/CookieSPA/Globomantics/Server/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/source/repos/RolandGuijt/ps-aspnetcore6apiauth/m2/CookieSPA/Globomantics/Server/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/source/repos/RolandGuijt/ps-aspnetcore6apiauth/m2/CookieSPA/Globomantics/Server/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/source/repos/RolandGuijt/ps-aspnetcore6apiauth/m2/CookieSPA/Globomantics/Server/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

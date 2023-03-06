@@ -3,7 +3,6 @@ using Globomantics.Client.ApiServices;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
-builder.Services.AddRazorPages();
 
 builder.Services.AddScoped<IConferenceApiService, ConferenceApiService>();
 builder.Services.AddScoped<IProposalApiService, ProposalApiService>();

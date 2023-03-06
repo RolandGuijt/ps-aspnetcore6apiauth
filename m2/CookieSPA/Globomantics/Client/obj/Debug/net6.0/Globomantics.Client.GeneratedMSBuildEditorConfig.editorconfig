@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Globomantics.Client
+build_property.RootNamespace = Globomantics.Client
+build_property.ProjectDir = C:\Users\rolan\source\repos\RolandGuijt\ps-aspnetcore6apiauth\m2\CookieSPA\Globomantics\Client\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\rolan\source\repos\RolandGuijt\ps-aspnetcore6apiauth\m2\CookieSPA\Globomantics\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/rolan/source/repos/RolandGuijt/ps-aspnetcore6apiauth/m2/CookieSPA/Globomantics/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/source/repos/RolandGuijt/ps-aspnetcore6apiauth/m2/CookieSPA/Globomantics/Client/Components/ConferenceListItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb25mZXJlbmNlTGlzdEl0ZW0ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/source/repos/RolandGuijt/ps-aspnetcore6apiauth/m2/CookieSPA/Globomantics/Client/Components/ProposalListItem.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQcm9wb3NhbExpc3RJdGVtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/source/repos/RolandGuijt/ps-aspnetcore6apiauth/m2/CookieSPA/Globomantics/Client/Pages/AddConference.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQ29uZmVyZW5jZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/source/repos/RolandGuijt/ps-aspnetcore6apiauth/m2/CookieSPA/Globomantics/Client/Pages/AddProposal.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkUHJvcG9zYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/source/repos/RolandGuijt/ps-aspnetcore6apiauth/m2/CookieSPA/Globomantics/Client/Pages/ConferenceList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uZmVyZW5jZUxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/source/repos/RolandGuijt/ps-aspnetcore6apiauth/m2/CookieSPA/Globomantics/Client/Pages/ProposalList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvcG9zYWxMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/source/repos/RolandGuijt/ps-aspnetcore6apiauth/m2/CookieSPA/Globomantics/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/source/repos/RolandGuijt/ps-aspnetcore6apiauth/m2/CookieSPA/Globomantics/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-b2l4uk2f8x

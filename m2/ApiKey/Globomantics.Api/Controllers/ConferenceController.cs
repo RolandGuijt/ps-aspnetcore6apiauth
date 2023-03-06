@@ -1,4 +1,5 @@
-﻿using Globomantics.Client.Models;
+﻿using Globomantics.Api;
+using Globomantics.Client.Models;
 using Globomantics.Repositories;
 using Microsoft.AspNetCore.Mvc;
 
@@ -19,6 +20,7 @@ namespace Globomantics.Server.Controllers
         [HttpGet]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
+        //[TypeFilter(typeof(ApiKeyAttribute))]
         public IActionResult GetAll()
         {
             var conferences = _Repo.GetAll();
