@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = Globomantics.Shared
-build_property.ProjectDir = C:\Users\rolan\source\repos\RolandGuijt\ps-aspnetcore6apiauth\m2\ApiKey\Shared\
+build_property.ProjectDir = c:\Users\rolan\source\repos\RolandGuijt\ps-aspnetcore6apiauth\m2\ApiKey\Shared\

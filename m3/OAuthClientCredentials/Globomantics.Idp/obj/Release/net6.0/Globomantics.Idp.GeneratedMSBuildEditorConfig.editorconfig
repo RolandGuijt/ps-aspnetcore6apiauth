@@ -1,0 +1,121 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Globomantics.Idp
+build_property.RootNamespace = Globomantics.Idp
+build_property.ProjectDir = C:\Users\rolan\Source\Repos\RolandGuijt\ps-aspnetcore6apiauth\m3\OAuthClientCredentials\Globomantics.Idp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\rolan\Source\Repos\RolandGuijt\ps-aspnetcore6apiauth\m3\OAuthClientCredentials\Globomantics.Idp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/Account/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dpblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/Account/Logout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/Account/Logout/LoggedOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dvdXRcTG9nZ2VkT3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/Ciba/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2liYVxBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/Ciba/Consent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2liYVxDb25zZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/Ciba/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2liYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/Ciba/_ScopeListItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2liYVxfU2NvcGVMaXN0SXRlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/Consent/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uc2VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/Consent/_ScopeListItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uc2VudFxfU2NvcGVMaXN0SXRlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/Device/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV2aWNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/Device/Success.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV2aWNlXFN1Y2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/Device/_ScopeListItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV2aWNlXF9TY29wZUxpc3RJdGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/Diagnostics/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlhZ25vc3RpY3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/ExternalLogin/Callback.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXh0ZXJuYWxMb2dpblxDYWxsYmFjay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/ExternalLogin/Challenge.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXh0ZXJuYWxMb2dpblxDaGFsbGVuZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/Grants/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JhbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/Home/Error/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVxFcnJvclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/Redirect/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVkaXJlY3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/ServerSideSessions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmVyU2lkZVNlc3Npb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/Shared/_Nav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9OYXYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/Shared/_ValidationSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU3VtbWFyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rolan/Source/Repos/RolandGuijt/ps-aspnetcore6apiauth/m3/OAuthClientCredentials/Globomantics.Idp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
