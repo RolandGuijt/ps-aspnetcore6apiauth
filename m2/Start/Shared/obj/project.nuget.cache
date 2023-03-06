@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X1Ym0KQWIbemWt8rtajwp3hMvMC3AV92cYt16jYIKhn31/hucC4evpUoMuk8+KAfLxXCKAfCubv9QM6wlHCmcQ==",
+  "dgSpecHash": "5rQuGvIo9NgCONC/8uesdQuj8wxlOEJrqbEgP55ObY0UX9Xswi700lyGVjCF0r/xnx/7rwTLht5bxzM3lSgW/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rolan\\Source\\Repos\\RolandGuijt\\ps-aspnetcore6apiauth\\m2\\Start\\Shared\\Globomantics.Shared.csproj",
+  "projectFilePath": "C:\\Users\\rolan\\source\\repos\\RolandGuijt\\ps-aspnetcore6apiauth\\m2\\Start\\Shared\\Globomantics.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -36,7 +36,12 @@ builder.Services.AddScoped<IConferenceRepository, ConferenceRepository>();
 builder.Services.AddScoped<IProposalRepository, ProposalRepository>();
 
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
-    .AddJwtBearer();
+    .AddJwtBearer(o =>
+    {
+        o.Authority = "https://localhost:5001";
+        o.TokenValidationParameters.ValidateAudience = false;
+        o.TokenValidationParameters.ValidTypes = new[] { "at+jwt" };
+    });
 
 var app = builder.Build();
 

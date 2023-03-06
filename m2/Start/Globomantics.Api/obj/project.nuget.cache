@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IP/JQ26MNXlRJ1AAeWJ2QLw/DJQEWnA2ietvO7+vPGoUugon2qN2HPJF0KWUNR/WzHSjJftZ2+WRR6VYZPbMtw==",
+  "dgSpecHash": "zchpmQUlhQ8f3nJFnqb6qlabgssivlQuUS1egWh6I2mrPjY7y+MAYBNZyrYu3Nq8M/F+ex6oRSWOyh5U3+zsMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rolan\\Source\\Repos\\RolandGuijt\\ps-aspnetcore6apiauth\\m2\\Start\\Globomantics.Api\\Globomantics.Api.csproj",
+  "projectFilePath": "C:\\Users\\rolan\\source\\repos\\RolandGuijt\\ps-aspnetcore6apiauth\\m2\\Start\\Globomantics.Api\\Globomantics.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rolan\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.13\\microsoft.aspnetcore.authentication.jwtbearer.6.0.13.nupkg.sha512",
     "C:\\Users\\rolan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

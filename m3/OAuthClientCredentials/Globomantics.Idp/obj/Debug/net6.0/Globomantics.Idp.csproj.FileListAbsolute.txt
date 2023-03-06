@@ -48,3 +48,4 @@ C:\Users\rolan\source\repos\RolandGuijt\ps-aspnetcore6apiauth\m3\OAuthClientCred
 C:\Users\rolan\source\repos\RolandGuijt\ps-aspnetcore6apiauth\m3\OAuthClientCredentials\Globomantics.Idp\obj\Debug\net6.0\Globomantics.Idp.pdb
 C:\Users\rolan\source\repos\RolandGuijt\ps-aspnetcore6apiauth\m3\OAuthClientCredentials\Globomantics.Idp\obj\Debug\net6.0\Globomantics.Idp.genruntimeconfig.cache
 C:\Users\rolan\source\repos\RolandGuijt\ps-aspnetcore6apiauth\m3\OAuthClientCredentials\Globomantics.Idp\obj\Debug\net6.0\ref\Globomantics.Idp.dll
+C:\Users\rolan\source\repos\RolandGuijt\ps-aspnetcore6apiauth\m3\OAuthClientCredentials\Globomantics.Idp\bin\Debug\net6.0\keys\is-signing-key-A60035173DE24E3C358CF2E3C2C8DF7C.json

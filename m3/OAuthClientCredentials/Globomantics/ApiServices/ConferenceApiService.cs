@@ -13,21 +13,18 @@ namespace Globomantics.ApiServices
 
         public async Task<IEnumerable<ConferenceModel>?> GetAll()
         {
-            await _Client.EnsureAccessTokenInHeader();
             return await _Client
                 .GetFromJsonAsync<IEnumerable<ConferenceModel>>("/conference");
         }
 
         public async Task<ConferenceModel?> GetById(int id)
         {
-            await _Client.EnsureAccessTokenInHeader();
             return await _Client
                 .GetFromJsonAsync<ConferenceModel>($"/conference/{id}");
         }
 
         public async Task Add(ConferenceModel model)
         {
-            await _Client.EnsureAccessTokenInHeader();
             await _Client.PostAsJsonAsync("/conference", model);
         }
     }
