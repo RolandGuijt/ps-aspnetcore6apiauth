@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = Globomantics.Shared
+<<<<<<< HEAD:m2/CookieSPA/Globomantics/Shared/obj/Debug/net6.0/Globomantics.Shared.GeneratedMSBuildEditorConfig.editorconfig
 build_property.ProjectDir = C:\Users\rolan\source\repos\RolandGuijt\ps-aspnetcore6apiauth\m2\CookieSPA\Globomantics\Shared\
+=======
+build_property.ProjectDir = C:\Users\rolan\Source\Repos\RolandGuijt\ps-aspnetcore6apiauth\m2\Cookie\Shared\
+>>>>>>> 9cac42455b8e36b41340cbc8feca7e32c1707d59:m2/Cookie/Shared/obj/Debug/net6.0/Globomantics.Shared.GeneratedMSBuildEditorConfig.editorconfig
