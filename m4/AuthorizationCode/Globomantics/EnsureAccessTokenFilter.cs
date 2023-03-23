@@ -1,0 +1,24 @@
+﻿using IdentityModel.Client;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Mvc.Filters;
+
+namespace Globomantics
+{
+    public class EnsureAccessTokenFilter : ActionFilterAttribute
+    {
+        private readonly HttpClient _HttpClient;
+
+        public EnsureAccessTokenFilter(HttpClient httpClient)
+        {
+            _HttpClient = httpClient;
+        }
+
+        public override async Task OnActionExecutionAsync(
+            ActionExecutingContext context, ActionExecutionDelegate next)
+        {
+            var token = await context.HttpContext.GetUserAccessTokenAsync();
+            _HttpClient.SetBearerToken(token.AccessToken);
+            await next();
+        }
+    }
+}

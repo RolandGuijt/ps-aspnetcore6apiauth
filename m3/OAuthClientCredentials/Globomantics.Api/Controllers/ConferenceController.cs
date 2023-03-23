@@ -1,11 +1,13 @@
 ﻿using Globomantics.Api.Repositories;
 using Globomantics.Shared;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Globomantics.Api.Controllers
 {
     [ApiController]
     [Route("conference")]
+    [ProducesResponseType(StatusCodes.Status401Unauthorized)]
     public class ConferenceController : Controller
     {
         private readonly IConferenceRepository _Repo;

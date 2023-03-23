@@ -10,6 +10,12 @@ internal static class HostingExtensions
     {
         builder.Services.AddRazorPages();
 
+        builder.Services.AddCors(o => o.AddDefaultPolicy(p => 
+            p.WithOrigins("https://localhost:5002")
+                .AllowAnyHeader()
+                .AllowAnyMethod()
+        ));
+
         var isBuilder = builder.Services.AddIdentityServer(options =>
             {
                 options.Events.RaiseErrorEvents = true;
@@ -63,6 +69,7 @@ internal static class HostingExtensions
         }
 
         app.UseStaticFiles();
+        app.UseCors();
         app.UseRouting();
         app.UseIdentityServer();
         app.UseAuthorization();

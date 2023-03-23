@@ -11,7 +11,9 @@ namespace Globomantics
             _HttpClient = httpClient;
         }
 
-        public override async Task OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next)
+        public override async Task OnActionExecutionAsync(
+            ActionExecutingContext context, 
+            ActionExecutionDelegate next)
         {
             await _HttpClient.EnsureAccessTokenInHeader();
             await next();

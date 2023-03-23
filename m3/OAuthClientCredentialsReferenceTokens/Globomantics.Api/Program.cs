@@ -36,7 +36,8 @@ builder.Services.AddSwaggerGen(o =>
 builder.Services.AddScoped<IConferenceRepository, ConferenceRepository>();
 builder.Services.AddScoped<IProposalRepository, ProposalRepository>();
 
-builder.Services.AddAuthentication(OAuth2IntrospectionDefaults.AuthenticationScheme)
+builder.Services.AddAuthentication(
+    OAuth2IntrospectionDefaults.AuthenticationScheme)
     .AddOAuth2Introspection(o =>
     {
         o.Authority = "https://localhost:5001";

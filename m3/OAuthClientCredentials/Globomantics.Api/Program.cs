@@ -6,29 +6,35 @@ using Microsoft.OpenApi.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers(o => o.Filters.Add(new AuthorizeFilter()));
+
 builder.Services.AddSwaggerGen(o =>
 {
-    o.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme()
+    o.AddSecurityDefinition("oauth2", new OpenApiSecurityScheme
     {
-        Name = "Authorization",
-        Type = SecuritySchemeType.ApiKey,
-        Scheme = "Bearer",
-        BearerFormat = "JWT",
-        In = ParameterLocation.Header,
-        Description = "JWT Authorization header using the Bearer scheme."
+        Type = SecuritySchemeType.OAuth2,
+        Flows = new OpenApiOAuthFlows
+        {
+            ClientCredentials = new OpenApiOAuthFlow
+            {   
+                TokenUrl = new Uri("https://localhost:5001/connect/token"),
+                Scopes = new Dictionary<string, string>
+                {
+                    { "globoapi", "Access to Globomantics API" },
+                }
+            }
+        }
     });
     o.AddSecurityRequirement(new OpenApiSecurityRequirement
-    {
+    { 
         {
             new OpenApiSecurityScheme
             {
                 Reference = new OpenApiReference
                 {
-                    Type = ReferenceType.SecurityScheme,
-                    Id = "Bearer"
+                    Id = "oauth2", //The name of the previously defined security scheme.
+                    Type = ReferenceType.SecurityScheme
                 }
-            },
-            new string[] {}
+            },new List<string>()
         }
     });
 });

@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vPkNapmw4UgZFNHFyoudxfpIkEqh0brIys/LXqpdJmKbwpnzQNV4uZSaaZxRmvp4LYx7SW+9HtzaGdOGOiM63g==",
+  "dgSpecHash": "Ytg8s458dc+pzFiVEdQmP31XXQxgk23F+OJp31DNMR9FUN2GznIzKPMXqY/KTCZWyI4G6VpzDsaa2QL56Hffhg==",
   "success": true,
   "projectFilePath": "C:\\Users\\rolan\\source\\repos\\RolandGuijt\\ps-aspnetcore6apiauth\\m3\\OAuthClientCredentials\\Globomantics\\Globomantics.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rolan\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
-    "C:\\Users\\rolan\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\6.0.11\\microsoft.aspnetcore.authentication.google.6.0.11.nupkg.sha512",
     "C:\\Users\\rolan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\rolan\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.10.0\\microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",
     "C:\\Users\\rolan\\.nuget\\packages\\microsoft.identitymodel.logging\\6.10.0\\microsoft.identitymodel.logging.6.10.0.nupkg.sha512",

@@ -74,7 +74,6 @@ C:\Users\rolan\source\repos\RolandGuijt\ps-aspnetcore6apiauth\m3\OAuthClientCred
 C:\Users\rolan\source\repos\RolandGuijt\ps-aspnetcore6apiauth\m3\OAuthClientCredentials\Globomantics\bin\Debug\net6.0\Globomantics.dll
 C:\Users\rolan\source\repos\RolandGuijt\ps-aspnetcore6apiauth\m3\OAuthClientCredentials\Globomantics\bin\Debug\net6.0\Globomantics.pdb
 C:\Users\rolan\source\repos\RolandGuijt\ps-aspnetcore6apiauth\m3\OAuthClientCredentials\Globomantics\bin\Debug\net6.0\IdentityModel.dll
-C:\Users\rolan\source\repos\RolandGuijt\ps-aspnetcore6apiauth\m3\OAuthClientCredentials\Globomantics\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
 C:\Users\rolan\source\repos\RolandGuijt\ps-aspnetcore6apiauth\m3\OAuthClientCredentials\Globomantics\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\rolan\source\repos\RolandGuijt\ps-aspnetcore6apiauth\m3\OAuthClientCredentials\Globomantics\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\rolan\source\repos\RolandGuijt\ps-aspnetcore6apiauth\m3\OAuthClientCredentials\Globomantics\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll

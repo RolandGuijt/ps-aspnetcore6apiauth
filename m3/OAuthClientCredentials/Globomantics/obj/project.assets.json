@@ -15,22 +15,6 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Authentication.Google/6.0.11": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/Microsoft.AspNetCore.Authentication.Google.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/Microsoft.AspNetCore.Authentication.Google.dll": {
-            "related": ".xml"
-          }
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
-      },
       "Microsoft.CSharp/4.5.0": {
         "type": "package",
         "compile": {
@@ -159,21 +143,6 @@
         "lib/netstandard2.0/IdentityModel.dll",
         "lib/netstandard2.0/IdentityModel.pdb",
         "lib/netstandard2.0/IdentityModel.xml"
-      ]
-    },
-    "Microsoft.AspNetCore.Authentication.Google/6.0.11": {
-      "sha512": "EjZhKpe5WVy6p23pRYLhO62t4rQW7bZO72J0eU01TmbOYRsJ/ZAUZqYQ4C3Kd3+CH18Ac4KkSl3X8YhuXHAatA==",
-      "type": "package",
-      "path": "microsoft.aspnetcore.authentication.google/6.0.11",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "THIRD-PARTY-NOTICES.TXT",
-        "lib/net6.0/Microsoft.AspNetCore.Authentication.Google.dll",
-        "lib/net6.0/Microsoft.AspNetCore.Authentication.Google.xml",
-        "microsoft.aspnetcore.authentication.google.6.0.11.nupkg.sha512",
-        "microsoft.aspnetcore.authentication.google.nuspec"
       ]
     },
     "Microsoft.CSharp/4.5.0": {
@@ -393,7 +362,6 @@
     "net6.0": [
       "Globomantics.Shared >= 1.0.0",
       "IdentityModel >= 6.0.0",
-      "Microsoft.AspNetCore.Authentication.Google >= 6.0.11",
       "System.IdentityModel.Tokens.Jwt >= 6.10.0"
     ]
   },
@@ -443,10 +411,6 @@
           "IdentityModel": {
             "target": "Package",
             "version": "[6.0.0, )"
-          },
-          "Microsoft.AspNetCore.Authentication.Google": {
-            "target": "Package",
-            "version": "[6.0.11, )"
           },
           "System.IdentityModel.Tokens.Jwt": {
             "target": "Package",

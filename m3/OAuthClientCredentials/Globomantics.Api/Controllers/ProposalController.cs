@@ -6,6 +6,7 @@ namespace Globomantics.Api.Controllers
 {
     [ApiController]
     [Route("proposal")]
+    [ProducesResponseType(StatusCodes.Status401Unauthorized)]
     public class ProposalController : Controller
     {
         private readonly IProposalRepository _Repo;

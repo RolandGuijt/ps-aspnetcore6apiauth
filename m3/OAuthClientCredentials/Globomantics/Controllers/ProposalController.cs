@@ -3,6 +3,8 @@ using Globomantics.Shared;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Globomantics.Controllers;
+
+[ServiceFilter(typeof(EnsureAccessTokenFilter))]
 public class ProposalController : Controller
 {
     private readonly IConferenceApiService _ConferenceApiService;
