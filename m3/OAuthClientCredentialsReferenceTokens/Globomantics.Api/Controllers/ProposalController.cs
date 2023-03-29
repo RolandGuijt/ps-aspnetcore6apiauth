@@ -1,5 +1,6 @@
 ﻿using Globomantics.Api.Repositories;
 using Globomantics.Shared;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Globomantics.Api.Controllers

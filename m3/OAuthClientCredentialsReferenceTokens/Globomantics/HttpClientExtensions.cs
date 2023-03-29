@@ -24,10 +24,19 @@ public static class HttpClientExtensions
     }
     private static async Task<string> GetAccessToken(HttpClient client)
     {
+        var discoveryCache = new DiscoveryCache("https://localhost:5001");
+        var disco = await discoveryCache.GetAsync();
+
         if (_accessToken != null)
         {
-            var tokenObject = new JwtSecurityTokenHandler().ReadToken(_accessToken);
-            if (DateTime.UtcNow.AddMinutes(1) < tokenObject.ValidTo)
+            var response = await client.IntrospectTokenAsync(new TokenIntrospectionRequest
+            {
+                Token = _accessToken,
+                Address = disco.IntrospectionEndpoint,
+                ClientId = "globoapi",
+                ClientSecret = "259439594-238128"
+            });
+            if (response.IsActive)
                 return _accessToken;
         }
 

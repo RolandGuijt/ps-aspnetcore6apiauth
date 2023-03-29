@@ -22,6 +22,8 @@ namespace Globomantics.Api.Controllers
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         public IActionResult GetAll()
         {
+            var claims = User.Claims;
+
             var conferences = _Repo.GetAll();
             if (conferences == null || !conferences.Any())
             {
